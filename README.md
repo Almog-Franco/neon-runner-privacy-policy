@@ -1,0 +1,164 @@
+# Neon Runner Deluxe Privacy Policy
+
+**Effective Date: February 7, 2026**
+
+This privacy policy applies to the Neon Runner Deluxe app (hereby referred to as "Application") for mobile devices that was created by AKNESHIOS (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+
+---
+
+## Information Collection and Use
+
+### Automatically Collected Information
+
+When you download and use the Application, we automatically collect certain information, including:
+
+- Your device's Internet Protocol address (IP address)
+- Device operating system and version
+- The time and date of your visits to the Application
+- Time spent playing the Application
+- Game performance data (scores, distances achieved)
+
+**The Application does not collect precise location data from your mobile device.**
+
+### User-Provided Information
+
+The Application may collect the following information that you voluntarily provide:
+
+- **Display Name**: You may enter a display name (up to 12 characters) to identify yourself on leaderboards. This name is publicly visible to other players.
+- **Game Progress**: Your high scores, gold balance, owned items, achievements, and game statistics are stored to preserve your progress.
+
+### Anonymous Authentication
+
+The Application uses anonymous authentication through Firebase to save your game progress without requiring you to create an account with personal information such as email or password. A unique anonymous identifier is automatically generated for your device.
+
+### Account Recovery System
+
+A recovery code is automatically generated for your account. This code allows you to restore your game progress if you switch devices or reinstall the Application. The recovery code is linked to your game data but does not contain personal information.
+
+---
+
+## Data Storage
+
+### Cloud Storage
+
+Your game progress is stored securely on Firebase servers operated by Google. This includes:
+
+- Display name
+- High scores and score history
+- Gold balance and purchased items
+- Owned avatars and customizations
+- Achievement progress
+- Last active timestamp
+
+### Local Storage
+
+Game data is also stored locally on your device, including:
+
+- Game settings and preferences
+- Level progress and experience points
+- Daily challenge progress
+- Cached game statistics
+
+---
+
+## Public Leaderboards
+
+**Important**: If you choose to set a display name, your name and high score will be visible to all other players on the public leaderboard. Do not use your real name or any personally identifiable information as your display name if you wish to remain anonymous.
+
+---
+
+## Third-Party Services
+
+The Application utilizes third-party services that may collect information used to identify you. These services have their own privacy policies regarding data handling:
+
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [AdMob (Google)](https://support.google.com/admob/answer/6128543)
+- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Unity Ads](https://unity.com/legal/privacy-policy)
+
+### Advertising
+
+The Application displays advertisements provided by AdMob and Unity Ads. These ad networks may collect and use data to serve personalized or non-personalized advertisements based on your preferences and app store settings.
+
+**iOS App Tracking Transparency**: On iOS 14.5 and later, the Application will request your permission through Apple's App Tracking Transparency framework before tracking your activity across other companies' apps and websites for advertising purposes. You may choose to allow or deny this request. Denying tracking will result in non-personalized ads.
+
+---
+
+## Data Retention and Deletion
+
+### Automatic Deletion
+
+**Accounts that have been inactive for 30 consecutive days may be automatically deleted.** This includes all associated game progress, scores, and leaderboard entries. If you wish to preserve your data, simply open and play the Application at least once every 30 days.
+
+### Manual Deletion
+
+You can request deletion of your data at any time by contacting us at **ofsiwabayek99@gmail.com**. We will process your request within a reasonable timeframe.
+
+### Opt-Out
+
+You can stop all collection of information by the Application by uninstalling it using the standard uninstall process available on your mobile device or through the app store.
+
+---
+
+## Children's Privacy
+
+The Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age.
+
+If we discover that a child under 13 has provided personal information, we will immediately delete it from our servers. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at **ofsiwabayek99@gmail.com** so we can take appropriate action.
+
+---
+
+## Data Sharing
+
+We do not sell your personal information. We may share your information only in the following circumstances:
+
+- **Aggregated Data**: Anonymized, aggregated data may be shared with third-party services to help improve the Application.
+- **Legal Requirements**: When required by law, such as to comply with a subpoena or similar legal process.
+- **Safety and Rights**: When we believe disclosure is necessary to protect our rights, your safety, the safety of others, investigate fraud, or respond to a government request.
+- **Service Providers**: With trusted service providers who work on our behalf and have agreed to adhere to this privacy policy.
+
+---
+
+## Security
+
+We are committed to protecting your information. We implement physical, electronic, and procedural safeguards to protect the information we process and maintain. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+---
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. We will notify you of any changes by updating this page with the new Privacy Policy and changing the effective date. You are advised to review this Privacy Policy periodically for any changes. Continued use of the Application after changes constitutes acceptance of the updated policy.
+
+---
+
+## Your Consent
+
+By using the Application, you consent to the collection and use of your information as described in this Privacy Policy.
+
+---
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or our data practices, please contact us:
+
+**Email**: ofsiwabayek99@gmail.com
+
+---
+
+## Summary of Data Practices
+
+| Data Type | Collected | Stored | Shared Publicly |
+|-----------|-----------|--------|-----------------|
+| Display Name | Yes (optional) | Cloud + Local | Yes (leaderboard) |
+| High Scores | Yes | Cloud + Local | Yes (leaderboard) |
+| Game Progress | Yes | Cloud + Local | No |
+| Device Info | Yes | Third-party | No |
+| IP Address | Yes | Third-party | No |
+| Location | No | - | - |
+| Email | No | - | - |
+| Real Name | No | - | - |
+
+---
+
+*This privacy policy is effective as of February 7, 2026.*
